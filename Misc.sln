@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPUid", "CPUid\CPUid.csproj", "{E3EF3BEF-8B1A-4B55-89A4-2F98B1BD3632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputProvider", "InputProvider\InputProvider.csproj", "{503EDFA8-0B30-4F0B-8723-6734E9AF7448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoHash", "GeoHash\GeoHash.csproj", "{F0A85434-F7FF-4443-8A5A-AAC33CD02B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3EF3BEF-8B1A-4B55-89A4-2F98B1BD3632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EF3BEF-8B1A-4B55-89A4-2F98B1BD3632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EF3BEF-8B1A-4B55-89A4-2F98B1BD3632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EF3BEF-8B1A-4B55-89A4-2F98B1BD3632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503EDFA8-0B30-4F0B-8723-6734E9AF7448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503EDFA8-0B30-4F0B-8723-6734E9AF7448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503EDFA8-0B30-4F0B-8723-6734E9AF7448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503EDFA8-0B30-4F0B-8723-6734E9AF7448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A85434-F7FF-4443-8A5A-AAC33CD02B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A85434-F7FF-4443-8A5A-AAC33CD02B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A85434-F7FF-4443-8A5A-AAC33CD02B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A85434-F7FF-4443-8A5A-AAC33CD02B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
